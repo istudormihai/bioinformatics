@@ -1,4 +1,4 @@
-The melting temperature (Tm) is the temperature at which one-half of a particular DNA duplex will dissociate and become a single strand of DNA. Primer length and sequence are of critical importance in designing the parameters of a successful amplification. The melting temperature of a nucleic acid duplex increases both with its length, and with increasing GC content. A simple formula for calculation of the (Tm) is:  Tm = 4(G + C) + 2(A + T) °C
+1. The melting temperature (Tm) is the temperature at which one-half of a particular DNA duplex will dissociate and become a single strand of DNA. Primer length and sequence are of critical importance in designing the parameters of a successful amplification. The melting temperature of a nucleic acid duplex increases both with its length, and with increasing GC content. A simple formula for calculation of the (Tm) is:  Tm = 4(G + C) + 2(A + T) °C
 
 The actual Tm is influenced by the concentration of Mg2+ , K+ , and cosolvents. An alternative formula is:
 
@@ -11,3 +11,6 @@ Implement an application that calculates the melting temperature of a DNA sequen
 Input = a string of DNA
 
 Output = temperature in celsius
+
+2. Design an application that uses the slidding window method in order to read the melting temperature (Tm) over the sequence S.
+Use a sliding window of 8 positions. And choose a FASTA file as input. 
