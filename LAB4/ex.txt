@@ -1,1 +1,8 @@
 Implement an app that converts the coding region of a gene into an amino acid sequence. Use the genetic code table .
+
+Download from NCBI the FASTA files containing the COVID19 genome and the INFLUENZA genome. Use the artificial intelligence
+to compare the codon frequencies between the two. 
+a. Make a chart that shows the top 10 most frequent codons for COVID 19
+b. Make a chart that shows the top 10 most frequent codons for Influenza
+c. Compare the two results and show the most frequent codons between the two genomes.
+d. Show in the output of the console the top 3 aminoacids for each genome.
