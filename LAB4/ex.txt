@@ -1,0 +1,1 @@
+Implement an app that converts the coding region of a gene into an amino acid sequence. Use the genetic code table .
