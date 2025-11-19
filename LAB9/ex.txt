@@ -1,0 +1,4 @@
+1. Make an artificial DNA sequence of 200-400b in length, in which to simulate 3-4 transposable elements.
+
+2. Implement a software application to detect the positions of these transposable elements (start, end)
+within the created DNA sequence.
