@@ -2,3 +2,9 @@
 
 2. Implement a software application to detect the positions of these transposable elements (start, end)
 within the created DNA sequence.
+
+3. Download from NCBI 3 bacterial genomes of your choosing. Try to find in these genomes possible tranposons.
+For these, one must detect possible inverted repeats without prior knowledge about their existence in the sequence.
+The inverted repeat should have 4 minimum length of 4 letters and a maximum of 6 letters.
+
+4. Make a raport about the results from exercise 3 write the raport in a txt or docx file. Upload this raport on moodle.
