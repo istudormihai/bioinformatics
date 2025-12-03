@@ -16,3 +16,8 @@ To ensure that the algorithm implementation works correctly, use the following s
 7. Take the center of each pattern and plot it on a second chart.
 
 8. Take the DNA sequence of a promoter and generate a pattern. Open PromKappa and see if your pattern is the same.
+
+Download from Moodle the fasta file containing promoter sequences and use it as an input for an updated application
+ which is able to generate and save 
+the objective digital stain inside a folder.
+The promoter file can be found inside the PromKappa package.
